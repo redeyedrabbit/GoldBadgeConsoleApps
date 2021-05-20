@@ -13,7 +13,8 @@ Folders included:
 - 02_Claim_Test
 ## Console App #3 : Komodo Insurance
 Unfortunately I did not allow myself enough time to complete this application. 
-Folders included
+
+Folders included:
 - 03_Badges_Console
 - 03_Badges_Repo
 - 03_Badges_Test
