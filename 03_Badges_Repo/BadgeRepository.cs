@@ -9,18 +9,13 @@ namespace _03_Badges_Repo
     public class BadgeRepository
     {
         private Dictionary<int, List<string>> _BadgeDictionary = new Dictionary<int, List<string>>();
-        public bool EditBadge(int originalMealNumber, MenuItem newItemValue)
+        public bool AddBadge(Badge newBadge)
         {
-            Badge oldDoorAccess = GetBadgeID(originalBadgeID);
-            if (oldDoorAccess != null)
-            {
-                oldDoorAccess.DoorAccess = newDoorAccess.DoorAccess;
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            int startingCount = _itemDirectory.Count;
+            _itemDirectory.Add(newItem);
+            bool wasAdded = (_itemDirectory.Count > startingCount) ? true : false;
+            return wasAdded;
         }
+        
     }
 }
