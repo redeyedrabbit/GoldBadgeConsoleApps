@@ -8,7 +8,6 @@ namespace _03_Badges_Repo
 {
     class Badge
     {
-
         public int BadgeID { get; set; }
         public string DoorAccess { get; set; }        
         public Badge() { }
