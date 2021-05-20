@@ -1,6 +1,7 @@
 # Gold Badge Console Apps
-Includes 3 console apps required for the GoldBadge Console Application Challenges
 ### Created by Rachel Bellwood
+Includes 3 console apps required for the GoldBadge Console Application Challenges
+
 ## Console App #1 : Komodo Cafe
 Folders included:
 - 01_Cafe_Console
