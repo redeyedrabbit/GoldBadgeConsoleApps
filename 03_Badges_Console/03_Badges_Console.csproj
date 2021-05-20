@@ -7,7 +7,7 @@
     <ProjectGuid>{58DFD4BF-897C-4DC8-ACD4-BA157AB60A7A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_03_Badges_Console</RootNamespace>
-    <AssemblyName>_03_Badges_Console</AssemblyName>
+    <AssemblyName>03_Badges_Console</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BadgeUI.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

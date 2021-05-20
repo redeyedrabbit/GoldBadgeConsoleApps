@@ -104,7 +104,8 @@ namespace _03_Badges_Console
                 if (wasDeleted)
                 {
                     Console.WriteLine("Door removed.\n" +
-                        {input.BadgeNumber}" has access to door "{ displayAccess});
+                        {input.BadgeNumber}
+                    " has access to door "{displayAccess});
 
                 }
                 else
