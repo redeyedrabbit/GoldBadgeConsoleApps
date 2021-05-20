@@ -1,0 +1,16 @@
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\01_Cafe_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\01_Cafe_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\01_Cafe_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\01_Cafe_Test\bin\Debug\01_Cafe_Test.dll
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\01_Cafe_Test\bin\Debug\01_Cafe_Test.pdb
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\01_Cafe_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\01_Cafe_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\01_Cafe_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\01_Cafe_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\01_Cafe_Test\obj\Debug\01_Cafe_Test.csprojAssemblyReference.cache
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\01_Cafe_Test\obj\Debug\01_Cafe_Test.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\01_Cafe_Test\obj\Debug\01_Cafe_Test.csproj.CopyComplete
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\01_Cafe_Test\obj\Debug\01_Cafe_Test.dll
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\01_Cafe_Test\obj\Debug\01_Cafe_Test.pdb
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\01_Cafe_Test\bin\Debug\01_Cafe_Repo.dll
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\01_Cafe_Test\bin\Debug\01_Cafe_Repo.pdb

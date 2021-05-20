@@ -1,0 +1,10 @@
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\GoldBadgeConsoleApp\bin\Debug\GoldBadgeConsoleApp.exe.config
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\GoldBadgeConsoleApp\bin\Debug\GoldBadgeConsoleApp.exe
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\GoldBadgeConsoleApp\bin\Debug\GoldBadgeConsoleApp.pdb
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\GoldBadgeConsoleApp\obj\Debug\01_Cafe_Console.csprojAssemblyReference.cache
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\GoldBadgeConsoleApp\obj\Debug\01_Cafe_Console.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\GoldBadgeConsoleApp\obj\Debug\GoldBadgeConsoleApp.exe
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\GoldBadgeConsoleApp\obj\Debug\GoldBadgeConsoleApp.pdb
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\GoldBadgeConsoleApp\bin\Debug\01_Cafe_Repo.dll
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\GoldBadgeConsoleApp\bin\Debug\01_Cafe_Repo.pdb
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\GoldBadgeConsoleApp\obj\Debug\01_Cafe_Console.csproj.CopyComplete
