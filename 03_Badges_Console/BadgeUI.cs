@@ -135,11 +135,11 @@ namespace _03_Badges_Console
         {
             Console.Clear();
             Dictionary<int, List<string>> allContent = _repo.ViewAllBadges();
-            foreach (Badge content in allContent)
+            foreach (KeyValuePair<int, List<string>> content in allContent)
             {
                 Console.WriteLine($"Key\n" +
-                    $"Badge # {content.BadgeID}\n" +
-                    $"Door Access: {content.DoorAccess}\n");
+                    $"Badge # {content.Key}\n" +
+                    $"Door Access: {content.Value}\n");
             }
         }
         public void SeedContentList()
@@ -147,9 +147,9 @@ namespace _03_Badges_Console
             Badge badgeOne = new Badge(12345, new List<string> { "A7" });
             Badge badgeTwo = new Badge(22345, new List<string> { "A1", "A4", "B1", "B2" });
             Badge badgeThree = new Badge(32345, new List<string> { "A4", "A5" });
-            _repo.AddBadgeToDictionary(badgeOne);
-            _repo.AddBadgeToDictionary(badgeTwo);
-            _repo.AddBadgeToDictionary(badgeThree);
+            _repo.AddBadge(badgeOne);
+            _repo.AddBadge(badgeTwo);
+            _repo.AddBadge(badgeThree);
         }
     }
 }
