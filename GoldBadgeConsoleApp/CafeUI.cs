@@ -96,12 +96,12 @@ namespace _01_Cafe_Console
             DisplayAllMenuItems();
             Console.WriteLine("Enter the meal number of the menu item you would like to update");
             int oldMealNumber = Convert.ToInt32(Console.ReadLine());
-            MenuItem newItemValue = new MenuItem();
+            MenuItem newItemValue = _repo.GetMenuItemByNumber(oldMealNumber);
             // Meal Number
             Console.WriteLine("What is the new meal number?");
             string mealNumberAsString = Console.ReadLine();
             int mealNumberAsInt = Convert.ToInt32(mealNumberAsString);            
-            newItemValue.MealNumber = Convert.ToInt32(Console.ReadLine());
+            newItemValue.MealNumber = mealNumberAsInt;
             // Meal Name
             Console.WriteLine("What is the new meal name?");
             newItemValue.MealName = Console.ReadLine();
@@ -114,8 +114,8 @@ namespace _01_Cafe_Console
             // Meal Price
             Console.WriteLine("What is the new meal price?");
             string mealPriceAsString = Console.ReadLine();
-            double mealPriceAsInt = Convert.ToInt32(mealPriceAsString);
-            newItemValue.MealPrice = Convert.ToInt32(Console.ReadLine());
+            double mealPriceAsInt = Convert.ToDouble(mealPriceAsString);
+            newItemValue.MealPrice = mealPriceAsInt;
         }
         private void DeleteMenuItem()
         {

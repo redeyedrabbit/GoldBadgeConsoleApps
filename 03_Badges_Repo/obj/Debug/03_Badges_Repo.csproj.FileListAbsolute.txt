@@ -1,0 +1,6 @@
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\03_Badges_Repo\bin\Debug\03_Badges_Repo.dll
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\03_Badges_Repo\bin\Debug\03_Badges_Repo.pdb
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\03_Badges_Repo\obj\Debug\03_Badges_Repo.csprojAssemblyReference.cache
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\03_Badges_Repo\obj\Debug\03_Badges_Repo.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\03_Badges_Repo\obj\Debug\03_Badges_Repo.dll
+C:\Users\Rachel\source\repos\GoldBadgeConsoleApp\03_Badges_Repo\obj\Debug\03_Badges_Repo.pdb

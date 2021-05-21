@@ -139,7 +139,12 @@ namespace _03_Badges_Console
             {
                 Console.WriteLine($"Key\n" +
                     $"Badge # {content.Key}\n" +
-                    $"Door Access: {content.Value}\n");
+                    //$"Door Access: {content.Value}\n");
+                    $"Door Access:");
+                foreach (string door in content.Value)
+                {
+                    Console.WriteLine(door);
+                }
             }
         }
         public void SeedContentList()
